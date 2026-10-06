@@ -1,0 +1,23 @@
+# Variáveis de ambiente / chaves de API
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

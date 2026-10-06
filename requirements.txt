@@ -1,0 +1,6 @@
+google-genai
+sentence-transformers
+beautifulsoup4
+requests
+pandas
+numpy
